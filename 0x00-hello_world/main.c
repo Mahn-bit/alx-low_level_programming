@@ -1,10 +1,12 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - This print 'Hello World'
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-return (0);
+	printf("Hello World\n");
+	printf("hello friend\n");
+	return (0);
 }
